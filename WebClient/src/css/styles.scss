@@ -1,0 +1,13 @@
+﻿.dimmer.visible.transition {
+	display: flex !important;
+}
+
+.ui {
+	.modal{
+		display: block !important;
+		.actions{
+			text-align: right;
+			margin-top: 1em;
+		}
+	}
+}

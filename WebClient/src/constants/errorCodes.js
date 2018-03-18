@@ -1,0 +1,3 @@
+﻿export const SERVER_ERROR = "SERVER_ERROR";
+export const UNKNOWN = "UNKNOWN";
+export const VALIDATION_FAILED = "VALIDATION_FAILED";

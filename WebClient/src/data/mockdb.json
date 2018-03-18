@@ -1,0 +1,24 @@
+﻿{
+	"inventory": [
+		{
+			"id": "a46f8f18-10f1-47b6-9f41-710078fa6389",
+			"name": "Item 1",
+			"currentCount": 3,
+			"timeStamp": "1/1/2018 12:00 PM"
+		},
+		{
+			"id": "b2b7069c-6ae0-4ba7-83d6-40de3ba90e50",
+			"name": "Item 2",
+			"currentCount": 7,
+			"timeStamp": "1/1/2018 12:00 PM"
+		},
+		{
+			"id": "bd5f97c6-48a5-4b96-b306-2fecd05b4cdd",
+			"name": "Item 3",
+			"currentCount": 10,
+			"timeStamp": "1/1/2018 12:00 PM"
+		}
+	]
+}
+
+
