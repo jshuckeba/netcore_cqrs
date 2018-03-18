@@ -1,5 +1,5 @@
 ## Introduction
-This repository contains the source code for my 2018 Orlando Code Camp presentation on CQRS and Event Sourcing with .NET Core, CQRSLite and Elasticsearch. The intent of the project is to educate developers on the CQRS and Event Sourcing patterns and to serve as a streamline to bootstrap new projects. This project also uses the new SignalR for .NET Core implementation to push events to the browser.
+This repository contains the source code for my 2018 Orlando Code Camp presentation on CQRS and Event Sourcing with .NET Core, CQRSLite and Elasticsearch. The intent of the project is to educate other developers on the CQRS and Event Sourcing patterns and to serve as a streamline to bootstrap new projects. This project also uses the new SignalR for .NET Core implementation to push events to the browser.
 
 Slides from the presentation can be found [here](/CQRS_Presentation.pdf)
 
